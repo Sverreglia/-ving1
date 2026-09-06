@@ -1,3 +1,4 @@
+![License](https://img.shields.io/github/license/Sverreglia/-ving1)
 # Min CV 
 
 ## Om prosjektet
